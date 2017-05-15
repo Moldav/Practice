@@ -9,7 +9,7 @@ namespace Practice_App
         public void Configuration(IAppBuilder app)
         {
             ConfigureAuth(app);
-            createRolesandUsers();
+            
         }
     }
 }
